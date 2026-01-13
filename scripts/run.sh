@@ -9,7 +9,7 @@ echo "Running CLI application..."
 # ./order-controller > result.txt
 
 # For Node.js projects:
-npm start > result.txt
+npm start > scripts/result.txt
 
 # Temporary placeholder - remove this when you implement your CLI
 # echo "Added 1 bot" > result.txt
